@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumaiyab176
+- 👋 Hi, I’m Sumaiya
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning sql and tableau
 - 💞️ I’m looking to collaborate on data analysis project
